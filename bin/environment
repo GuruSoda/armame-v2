@@ -1,0 +1,4 @@
+export FIREBIRD=/opt/ArMame2/lib
+export LD_LIBRARY_PATH=/opt/ArMame2/lib
+
+
